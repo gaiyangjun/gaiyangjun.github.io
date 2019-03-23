@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 欢迎来到我的个人博客
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+这是我的个人博客，我将在这里记录所有工作，学习和生活的心得，欢迎大家来这里与我讨论。
